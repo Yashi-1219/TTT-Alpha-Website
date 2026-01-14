@@ -4,9 +4,9 @@ This repository contains the official website structure for the Think Tech Thriv
 
 ## Vision
 
-The vision of the TTT Alpha Website is to create the digital face of Think Tech Thrive.
-This platform will represent our philosophy, showcase our community, and provide a
-professional, high-end experience that inspires people to join and grow with TTT.
+The vision of the TTT Alpha Website is to build a powerful digital ecosystem where technology, innovation, and community come together to help individuals learn, build, and thrive in the tech-driven world.
+
+Think. Tech. Thrive.
 
 ## Goals
 - Learn GitHub workflow
