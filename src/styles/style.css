@@ -15,3 +15,20 @@ p {
 ul {
   margin-top: 10px;
 }
+
+#vision {
+  padding: 40px;
+  background-color: #f5f7fa;
+  margin: 30px 0;
+  border-radius: 8px;
+}
+
+#vision h2 {
+  color: #222;
+  margin-bottom: 10px;
+}
+
+#vision p {
+  color: #555;
+  line-height: 1.6;
+}
